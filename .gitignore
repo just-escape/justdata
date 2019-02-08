@@ -1,0 +1,6 @@
+*.pyc
+justdata/settings.py
+justdata/wsgi.py
+*/migrations/*
+*/__pycache__/*
+db.sqlite3
